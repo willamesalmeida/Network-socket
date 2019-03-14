@@ -1,1 +1,1 @@
-Basico socket em redes que funciona fazendo scraping de pagina web
+a basic networking socket, which makes scraping of web page as library Beautiful Soup (BS4)
